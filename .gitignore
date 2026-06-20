@@ -1,0 +1,11 @@
+# Build artifacts
+build/
+build-rel/
+
+# Generated outputs
+results/
+figures/
+animation/
+
+# OS cruft
+.DS_Store
