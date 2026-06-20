@@ -2,7 +2,7 @@
 
 Published at the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026).
 
-Pulkit Rustagi, Kyle Hollins Wray, Sandhya Saisubramanian
+**Pulkit Rustagi**, Kyle Hollins Wray, Sandhya Saisubramanian
 
 Paper: [link or arXiv placeholder]
 
