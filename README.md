@@ -4,7 +4,7 @@ Published at the 2026 IEEE/RSJ International Conference on Intelligent Robots an
 
 **Pulkit Rustagi**, Kyle Hollins Wray, Sandhya Saisubramanian
 
-Paper: [link or arXiv placeholder]
+Paper: [link](https://pulkitrustagi.github.io/mr-cussp-project/static/pdfs/mr_cussp_paper.pdf)
 
 ## Overview
 
